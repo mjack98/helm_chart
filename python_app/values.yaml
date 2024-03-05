@@ -8,7 +8,7 @@ image:
   repository: mjack98/devops_task
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: latest
+  tag: python_1.0.0
 
 imageCredentials:
   registry: ""
